@@ -7,6 +7,6 @@ clear
 figlet "Dota 2"; echo "Random hero name"
 declare i=$(shuf -i 1-124 -n 1)
 
-echo -ne "Nnumber $i is: "
+echo -ne "Number $i is: "
 
 head -n $i ./list-all-dota2-hero-names.txt | tail -n 1
