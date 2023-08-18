@@ -1,0 +1,7 @@
+Creep agro works within 500 units of range and has a 3 sec9nds cooldown until it works again
+
+Melee creeps: 500 range
+Ranged creeps: 600 range
+Siege creeps: 800 range
+
+cooldown: 3 seconds
