@@ -6,3 +6,4 @@ Do not forget to:
 - Take all Tormentors alone (this hero must do it)
 - Nether ward before a gank (to minimize the change of 1 enemy escape with only 5% helth)
 - Nether ward as observer ward on top of hills, with a centry to de-ward the enemy
+- Quando quer destruir uma torre com ataques de click direito sem sofrer dano: colocar uma nether ward no chao para que seja a nether ward atacada em vez do puna ou da sua equipa
