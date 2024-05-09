@@ -6,3 +6,4 @@ Do not forget to:
 - Take all Tormentors alone (this hero must do it)
 - Nether ward before a gank (to minimize the change of 1 enemy escape with only 5% helth)
 - Nether ward as observer ward on top of hills, with a centry to de-ward the enemy
+- No creeps nearby to drain? don't forget tormentor, ilimited drain
