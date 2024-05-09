@@ -7,3 +7,4 @@ Do not forget to:
 - Nether ward before a gank (to minimize the change of 1 enemy escape with only 5% helth)
 - Nether ward as observer ward on top of hills, with a centry to de-ward the enemy
 - No creeps nearby to drain? don't forget tormentor, ilimited drain
+- Quando quer destruir uma torre com ataques de click direito sem sofrer dano: colocar uma nether ward no chao para que seja a nether ward atacada em vez do puna ou da sua equipa
