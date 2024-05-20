@@ -11,6 +11,7 @@ Do not forget to:
 - Incansavelmente, destruir todas as Tier 1 Towers com nether blast (se possivel, apanhar herois ao mesmo tempo
 - Aghanin shard para enimigos que jogam muito em grupo
 - Decrepify functiona como BKB para fugir de uma luta com TP
+- Decrepify serve para dar tempo de passar à frente do inimigo que assim fica mais lento e de seguida ir-lhe bloqueando o caminho para que a nossa equipa acabe com a vida dele
 
 - Numa onda de creeps:
   1. Achas que estas longe demais e nao vais conseguir chegar a tempo de conaumir um dos 2 creeps que estao a morrer? manda Crepify num deles e nether blast... assim apanha todos
