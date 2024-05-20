@@ -10,6 +10,7 @@ Do not forget to:
 - Quando quer destruir uma torre com ataques de click direito sem sofrer dano: colocar uma nether ward no chao para que seja a nether ward atacada em vez do puna ou da sua equipa
 - Incansavelmente, destruir todas as Tier 1 Towers com nether blast (se possivel, apanhar herois ao mesmo tempo
 - Aghanin shard para enimigos que jogam muito em grupo
+- Decrepify functiona como BKB para fugir de uma luta com TP
 
 - Numa onda de creeps:
   1. Achas que estas longe demais e nao vais conseguir chegar a tempo de conaumir um dos 2 creeps que estao a morrer? manda Crepify num deles e nether blast... assim apanha todos
