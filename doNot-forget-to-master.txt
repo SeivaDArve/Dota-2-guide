@@ -13,6 +13,7 @@ Do not forget to:
 - Decrepify functiona como BKB para fugir de uma luta com TP
 - Decrepify serve para dar tempo de passar à frente do inimigo que assim fica mais lento e de seguida ir-lhe bloqueando o caminho para que a nossa equipa acabe com a vida dele
 - Nather ward pode ser usada, nao para cortar lanes matando creeps, mas entretendo os creeps até a chegada doa nossos
+- Se Nether Blast e de efeito em area, para ser mais eficiente, é melhor arrastas as creep waves para os nutral creeps e ai usar nether blast, poupando manda, swndo mais eficiente
 
 - Numa onda de creeps:
   1. Achas que estas longe demais e nao vais conseguir chegar a tempo de conaumir um dos 2 creeps que estao a morrer? manda Crepify num deles e nether blast... assim apanha todos
