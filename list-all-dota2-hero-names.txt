@@ -1,126 +1,126 @@
-Abaddon (universal)
-alchemist (força)
-Ancient Apparition (inteligencia)
-Anti-Mage (agilidade)
-Arc Warden (agilidade)
-Axe (força)
-Bane (universal)
-Batrider (universal)
-Beastmaster (universal)
-Bloodseeker (agilidade)
-Bounty Hunter (agilidade)
-Brewmaster (universal)
-Bristleback (força)
-Broodmother (universal)
-Centaur Warrunner (força)
-Chaos Knight (força)
-Chen (universal)
-Clinkz (agilidade)
-Clockwerk (universal)
-Crystal Maiden (inteligencia)
-Dark Seer (universal)
-Dark Willow (universal)
-Dawnbreaker (força)
-Dazzle (universal)
-Death Prophet (inteligencia)
-Disruptor (inteligencia)
-Doom (força)
-Dragon Knight (força)
-Drow Ranger (agilidade)
-Earth Spirit (força)
-Earthshaker (força)
-Elder Titan (força)
-Ember Spirit (agilidade)
-Enchantress (inteligencia)
-Enigma (universal)
-Faceless Void (agilidade)
-Grimstroke (inteligencia)
-Gyrocopter (agilidade)
-Hoodwink (agilidade)
-Huskar (força)
-Invoker (inteligencia)
-Io (universal)
-Jakiro (inteligencia)
-Juggernaut (agilidade)
-Keeper of the Light (inteligencia)
-Kez (agilidade)
-Kunkka (força)
-Legion Commander (força)
-Leshrac (inteligencia)
-Lich (inteligencia)
-Lifestealer (força)
-Lina (inteligencia)
-Lion (inteligencia)
-Lone Druid (universal)
-Luna (agilidade)
-Lycan (universal)
-Magnus (universal)
-Marci (agilidade)
-Mars (força)
-Medusa (agilidade)
-Meepo (agilidade)
-Mirana (universal)
-Monkey King (agilidade)
-Morphling (agilidade)
-Muerta (inteligencia)
-Naga Siren (agilidade)
-Nature’s Prophet (inteligencia)
-Necrophos (inteligencia)
-Night Stalker (força)
-Nyx Assassin (universal)
-Ogre Magi (força)
-Omniknight (força)
-Oracle (inteligencia)
-Outworld Destroyer (inteligencia)
-Pangolier (universal)
-Phantom Assassin (agilidade)
-Phantom Lancer (agilidade)
-Phoenix (universal)
-Primal Beast (força)
-Puck (inteligencia)
-Pudge (força)
-Pugna (inteligencia)
-Queen of Pain (inteligencia)
-Razor (agilidade)
-Riki (agilidade)
-Ringmaster (inteligencia)
-Rubick (inteligencia)
-Sand King (universal)
-Shadow Demon (inteligencia)
-Shadow Fiend (agilidade)
-Shadow Shaman (inteligencia)
-Silencer (inteligencia)
-Skywrath Mage (inteligencia)
-Slardar (força)
-Slark (agilidade)
-Snapfire (universal)
-Sniper (agilidade)
-Spectre (agilidade)
-Spirit Breaker (força)
-Storm Spirit (inteligencia)
-Sven (força)
-Techies (universal)
-Templar Assassin (agilidade)
-Terrorblade (agilidade)
-Tidehunter (força)
-Timbersaw (universal)
-Tinker (inteligencia)
-Tiny (força)
-Treant Protector (força)
-Troll Warlord (agilidade)
-Tusk (força)
-Underlord (força)
-Undying (força)
-Ursa (agilidade)
-Vengeful Spirit (universal)
-Venomancer (universal)
-Viper (agilidade)
-Visage (universal)
-Void Spirit (universal)
-Warlock (inteligencia)
-Weaver (agilidade)
-Windranger (universal)
-Winter Wyvern (universal)
-Witch Doctor (inteligencia)
-Wraith King (força)
-Zeus (inteligencia)
+Abaddon 
+alchemist 
+Ancient Apparition 
+Anti-Mage 
+Arc Warden 
+Axe 
+Bane 
+Batrider 
+Beastmaster 
+Bloodseeker 
+Bounty Hunter 
+Brewmaster 
+Bristleback 
+Broodmother 
+Centaur Warrunner 
+Chaos Knight 
+Chen 
+Clinkz 
+Clockwerk 
+Crystal Maiden 
+Dark Seer 
+Dark Willow 
+Dawnbreaker 
+Dazzle 
+Death Prophet 
+Disruptor 
+Doom 
+Dragon Knight 
+Drow Ranger 
+Earth Spirit 
+Earthshaker 
+Elder Titan 
+Ember Spirit 
+Enchantress 
+Enigma 
+Faceless Void 
+Grimstroke 
+Gyrocopter 
+Hoodwink 
+Huskar 
+Invoker 
+Io 
+Jakiro 
+Juggernaut 
+Keeper of the Light 
+Kez 
+Kunkka 
+Legion Commander 
+Leshrac 
+Lich 
+Lifestealer 
+Lina 
+Lion 
+Lone Druid 
+Luna 
+Lycan 
+Magnus 
+Marci 
+Mars 
+Medusa 
+Meepo 
+Mirana 
+Monkey King 
+Morphling 
+Muerta 
+Naga Siren 
+Nature’s Prophet 
+Necrophos 
+Night Stalker 
+Nyx Assassin 
+Ogre Magi 
+Omniknight 
+Oracle 
+Outworld Destroyer 
+Pangolier 
+Phantom Assassin 
+Phantom Lancer 
+Phoenix 
+Primal Beast 
+Puck 
+Pudge 
+Pugna 
+Queen of Pain 
+Razor 
+Riki 
+Ringmaster 
+Rubick 
+Sand King 
+Shadow Demon 
+Shadow Fiend 
+Shadow Shaman 
+Silencer 
+Skywrath Mage 
+Slardar 
+Slark 
+Snapfire 
+Sniper 
+Spectre 
+Spirit Breaker 
+Storm Spirit 
+Sven 
+Techies 
+Templar Assassin 
+Terrorblade 
+Tidehunter 
+Timbersaw 
+Tinker 
+Tiny 
+Treant Protector 
+Troll Warlord 
+Tusk 
+Underlord 
+Undying 
+Ursa 
+Vengeful Spirit 
+Venomancer 
+Viper 
+Visage 
+Void Spirit 
+Warlock 
+Weaver 
+Windranger 
+Winter Wyvern 
+Witch Doctor 
+Wraith King 
+Zeus 

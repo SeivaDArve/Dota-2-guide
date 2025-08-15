@@ -43,4 +43,14 @@ function f_presentation {
 function f_exec {
    f_presentation 
 }
-f_exec
+
+if [ -z $1 ]; then
+   f_exec
+
+elif [ $1 == "." ]; then
+   vim ${v_REPOS_CENTER}/Dota-2-guide/dota-2-guide.sh
+
+elif [ $1 == "r" ]; then
+   bash ${v_REPOS_CENTER}/Dota-2-guide/random-hero-name.sh
+   
+fi
