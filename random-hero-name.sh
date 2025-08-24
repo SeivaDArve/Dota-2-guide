@@ -9,4 +9,4 @@ declare i=$(shuf -i 1-124 -n 1)
 
 echo -ne "Number $i is: "
 
-head -n $i ./list-all-dota2-hero-names.txt | tail -n 1
+head -n $i  ${v_REPOS_CENTER}/Dota-2-guide/list-all-dota2-hero-names.txt | tail -n 1
