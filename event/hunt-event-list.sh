@@ -58,5 +58,5 @@ function f_filter_list_by_item {
 
 }
 #f_create_list
-#f_filter_list_by_hero
-f_filter_list_by_item
+f_filter_list_by_hero
+#f_filter_list_by_item
