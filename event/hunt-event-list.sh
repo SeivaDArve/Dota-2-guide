@@ -2,6 +2,7 @@
 # Title: fzf chooser for event
 
 v_list=./result-event-list.txt
+v_list=./result-event-list-2.txt
 
 function f_create_list {
    v_item=$(cat event-item.txt | fzf)
@@ -17,7 +18,7 @@ function f_create_list {
 }
 
 function f_filter_list_by_hero {
-   v_name=$(cat list-all-dota2-hero-names.txt | fzf -m --prompt="Dota2: Listar os 5 adversarios: $v_item: ")
+   v_name=$(cat list-all-dota2-hero-names.txt | fzf -m --prompt="Dota2: Listar os 3 adversarios da caçada: ")
 
    clear
 
