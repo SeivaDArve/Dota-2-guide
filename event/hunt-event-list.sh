@@ -18,7 +18,7 @@ function f_create_list {
 }
 
 function f_filter_list_by_hero {
-   v_name=$(cat list-all-dota2-hero-names.txt | fzf -m --prompt="Dota2: Listar os 3 adversarios da caçada: ")
+   v_name=$(cat list-all-dota2-hero-names.txt | fzf -m --prompt="Dota2: 3 adv: ")
 
    clear
 
