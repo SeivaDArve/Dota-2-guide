@@ -1,2 +1,2 @@
-# Dota-2-guide
-Helps the user to become a master at Dota. Reminds you of timmings, Best practices etc.
+# DRYa-games 
+Helps the user to become a master at Dota and other games. Reminds you of timmings, Best practices etc.
